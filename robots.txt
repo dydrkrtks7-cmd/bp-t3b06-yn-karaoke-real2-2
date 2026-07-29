@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-karaoke-bar-note.roomlab-dangsan.xyz/sitemap.xml
